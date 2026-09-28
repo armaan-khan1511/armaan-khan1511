@@ -1,21 +1,251 @@
-<h1 align="center">Hi 👋, I'm Armaan Khan</h1>
-<h3 align="center">A passionate Backend developer and AI Engineer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=armaan-khan1511&label=Profile%20views&color=0e75b6&style=flat" alt="armaan-khan1511" /> </p>
+# `> SYSTEM.INIT()`
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=armaan-khan1511" alt="armaan-khan1511" /></a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a00,50:00ff41,100:001a00&height=180&section=header&text=ARMAAN%20KHAN&fontSize=55&fontColor=00ff41&animation=twinkling&fontAlignY=35" width="100%"/>
 
-- 🔭 I’m currently working on **LLM which answers questions based on provided documents**
+### `> Backend Developer • AI Engineer • Builder`
 
-- 🌱 I’m currently learning **Django,FastAPI,React,Node**
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   USER       : Armaan Khan                                  │
+│   LOCATION   : India                                        │
+│   ROLE       : Backend Developer / AI Engineer              │
+│   STATUS     : ● ONLINE                                     │
+│                                                             │
+│   > Initializing neural systems...          [██████████] OK │
+│   > Loading backend modules...              [██████████] OK │
+│   > Connecting AI systems...                [██████████] OK │
+│   > Ready.                                                   │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
-- 📫 How to reach me **mr.armaan.khan1511@gmail.com**
+<img src="https://komarev.com/ghpvc/?username=armaan-khan1511&label=PROFILE%20ACCESS&color=00ff41&style=flat-square" alt="Profile views"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+</div>
+
+---
+
+## `> ABOUT_ME.exe`
+
+```python
+class ArmaanKhan:
+
+    name = "Armaan Khan"
+    role = ["Backend Developer", "AI Engineer"]
+    location = "India"
+
+    currently_building = [
+        "AI Voice Cloning Detection & Prevention",
+        "Document-based LLM systems"
+    ]
+
+    currently_learning = [
+        "Django",
+        "FastAPI",
+        "React",
+        "Node.js"
+    ]
+
+    philosophy = "Build → Break → Debug → Improve"
+```
+
+---
+
+## `> CURRENT_MISSION`
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                     AI VOICE SECURITY                       ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  Detect synthetic / cloned voices                            ║
+║  Verify speaker identity                                     ║
+║  Analyze live conversations                                  ║
+║  Detect suspicious credentials & financial requests          ║
+║  Generate real-time security risk scores                     ║
+║                                                              ║
+║  AI + Audio Processing + Security + Backend                  ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+### `> SYSTEM_ARCHITECTURE`
+
+```text
+                ┌───────────────┐
+                │  LIVE AUDIO   │
+                └───────┬───────┘
+                        │
+                        ▼
+              ┌───────────────────┐
+              │ AUDIO PREPROCESS  │
+              │     librosa       │
+              └─────────┬─────────┘
+                        │
+             ┌──────────┴──────────┐
+             ▼                     ▼
+      ┌─────────────┐       ┌─────────────┐
+      │   ECAPA     │       │   AASIST    │
+      │   Speaker   │       │   Spoof /   │
+      │ Verification│       │ AI Detection│
+      └──────┬──────┘       └──────┬──────┘
+             │                     │
+             └──────────┬──────────┘
+                        ▼
+                 ┌─────────────┐
+                 │ RISK ENGINE │
+                 └──────┬──────┘
+                        │
+                        ▼
+                 ┌─────────────┐
+                 │ SECURITY UI │
+                 └─────────────┘
+```
+
+---
+
+## `> TECH_STACK`
+
+### `LANGUAGES`
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### `BACKEND`
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=armaan-khan1511&show_icons=true&locale=en" alt="armaan-khan1511" /></p>
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45"/>
+
+</p>
+
+### `AI / ML`
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
+
+</p>
+
+```text
+AI / ML
+├── PyTorch
+├── ECAPA-TDNN
+├── AASIST
+├── Whisper
+├── librosa
+└── Audio / Speaker Analysis
+```
+
+### `DATABASES`
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="50"/>
+
+</p>
+
+### `FRONTEND`
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50"/>
+
+</p>
+
+### `TOOLS`
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="45"/>
+
+</p>
+
+---
+
+## `> GITHUB_STATS`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=armaan-khan1511&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=00ff41&locale=en" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armaan-khan1511&layout=compact&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ff41" />
+
+</div>
+
+---
+
+## `> CONTRIBUTION_MATRIX`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=armaan-khan1511&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## `> CONNECT`
+
+```text
+┌────────────────────────────────────────────┐
+│                                            │
+│  EMAIL                                     │
+│  └── mr.armaan.khan1511@gmail.com          │
+│                                            │
+│  GITHUB                                    │
+│  └── github.com/armaan-khan1511            │
+│                                            │
+└────────────────────────────────────────────┘
+```
+
+<p align="center">
+
+<a href="mailto:mr.armaan.khan1511@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-00FF41?style=for-the-badge&logo=gmail&logoColor=black&labelColor=000000"/>
+</a>
+
+<a href="https://github.com/armaan-khan1511">
+<img src="https://img.shields.io/badge/GITHUB-00FF41?style=for-the-badge&logo=github&logoColor=black&labelColor=000000"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+```text
+> END_OF_TRANSMISSION_
+
+01001000 01000001 01000011 01001011
+01010100 01001000 01000101 01010000
+01001100 01000001 01001110 01000101 01010100
+
+[ SYSTEM STATUS: ONLINE ]
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a00,50:00ff41,100:001a00&height=100&section=footer"/>
+
+</div>
