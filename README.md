@@ -17,6 +17,7 @@
 │   > Initializing neural systems...          [██████████] OK │
 │   > Loading backend modules...              [██████████] OK │
 │   > Connecting AI systems...                [██████████] OK │
+│   > Loading WorldLayer...                   [██████████] OK │
 │   > Ready.                                                   │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
@@ -38,6 +39,7 @@ class ArmaanKhan:
     location = "India"
 
     currently_building = [
+        "WorldLayer",
         "AI Voice Cloning Detection & Prevention",
         "Document-based LLM systems"
     ]
@@ -54,55 +56,224 @@ class ArmaanKhan:
 
 ---
 
-## `> CURRENT_MISSION`
+<div align="center">
+
+## `> CURRENT_PROJECT`
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│                     🌍 WORLDLAYER                           │
+│                                                             │
+│              ● ACTIVE DEVELOPMENT                           │
+│                                                             │
+│   Unity + Android                                            │
+│   Physical World × Digital Experiences                       │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=700&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+Initializing+WorldLayer...;%3E+Loading+Unity+systems...;%3E+Preparing+Android+pipeline...;%3E+Building+the+next+layer." />
+
+</div>
+
+### `> WORLDLAYER.exe`
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                     AI VOICE SECURITY                       ║
-╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║  Detect synthetic / cloned voices                            ║
-║  Verify speaker identity                                     ║
-║  Analyze live conversations                                  ║
-║  Detect suspicious credentials & financial requests          ║
-║  Generate real-time security risk scores                     ║
+║                         WORLDLAYER                            ║
 ║                                                              ║
-║  AI + Audio Processing + Security + Backend                  ║
+║   A Unity + Android project exploring the connection         ║
+║   between the physical world and digital experiences.        ║
+║                                                              ║
+║   ────────────────────────────────────────────────────────   ║
+║                                                              ║
+║   ENGINE       : Unity                                       ║
+║   LANGUAGE     : C#                                          ║
+║   PLATFORM     : Android                                     ║
+║   STATUS       : ● ACTIVE                                    ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-### `> SYSTEM_ARCHITECTURE`
+### `> DEVELOPMENT_STATUS`
 
 ```text
-                ┌───────────────┐
-                │  LIVE AUDIO   │
-                └───────┬───────┘
-                        │
-                        ▼
-              ┌───────────────────┐
-              │ AUDIO PREPROCESS  │
-              │     librosa       │
-              └─────────┬─────────┘
-                        │
-             ┌──────────┴──────────┐
-             ▼                     ▼
-      ┌─────────────┐       ┌─────────────┐
-      │   ECAPA     │       │   AASIST    │
-      │   Speaker   │       │   Spoof /   │
-      │ Verification│       │ AI Detection│
-      └──────┬──────┘       └──────┬──────┘
-             │                     │
-             └──────────┬──────────┘
-                        ▼
-                 ┌─────────────┐
-                 │ RISK ENGINE │
-                 └──────┬──────┘
-                        │
-                        ▼
-                 ┌─────────────┐
-                 │ SECURITY UI │
-                 └─────────────┘
+WorldLayer Core         [███████████████████░] 95%
+Android Integration     [█████████████████░░░] 85%
+Interaction Systems     [███████████████░░░░░] 75%
+Testing & Refinement    [████████████████░░░░] 80%
+
+> BUILD PIPELINE
+
+[✓] Unity project configured
+[✓] Android pipeline configured
+[✓] Core systems implemented
+[>] Feature development
+[>] Testing & refinement
+
+PROCESS STATUS : ● RUNNING
+```
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=unity,cs,android,git,github" />
+
+</p>
+
+---
+
+<div align="center">
+
+## `> SECONDARY_PROJECTS`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=700&color=00FF41&center=true&vCenter=true&width=650&lines=%3E+Loading+additional+projects...;%3E+AI+systems+detected...;%3E+Document+intelligence+detected...;%3E+Modules+online." />
+
+</div>
+
+<table align="center">
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🎙️ AI VOICE SECURITY
+
+`AI + AUDIO + SECURITY`
+
+<img src="https://img.shields.io/badge/●%20BUILDING-00ff41?style=flat-square&labelColor=000000"/>
+
+</div>
+
+```text
+> Synthetic Voice Detection
+
+[██████████████████░░] 90%
+
+> Speaker Verification
+
+[████████████████░░░░] 80%
+
+> Spoof Detection
+
+[███████████████░░░░░] 75%
+
+> Risk Analysis
+
+[█████████████████░░░] 85%
+
+> ML CORE: ● ONLINE
+```
+
+<div align="center">
+
+`ECAPA-TDNN` · `AASIST` · `Whisper`
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,pytorch" />
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 📄 DOCUMENT AI
+
+`LLM + RAG + DOCUMENTS`
+
+<img src="https://img.shields.io/badge/●%20BUILDING-00ff41?style=flat-square&labelColor=000000"/>
+
+</div>
+
+```text
+> Document Processing
+
+[█████████████████░░░] 85%
+
+> Context Retrieval
+
+[████████████████░░░░] 80%
+
+> Question Answering
+
+[██████████████████░░] 90%
+
+> LLM Integration
+
+[█████████████████░░░] 85%
+
+> LLM CORE: ● ONLINE
+```
+
+<div align="center">
+
+`LLM` · `RAG` · `Document AI`
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,fastapi" />
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `> PROJECT_MONITOR`
+
+```text
+╭─────────────────────────────────────────────────────────────╮
+│                                                             │
+│   $ ./project_monitor                                       │
+│                                                             │
+│   WORLDLAYER       ● ACTIVE       ███████████████████░ 95%  │
+│   VOICE SECURITY   ● BUILDING     █████████████████░░░ 85%  │
+│   DOCUMENT AI      ● BUILDING     █████████████████░░░ 85%  │
+│                                                             │
+│   ACTIVE PROJECTS : 03                                      │
+│   MAIN PROJECT    : WORLDLAYER                              │
+│   SYSTEM STATUS   : ● ONLINE                                │
+│                                                             │
+╰─────────────────────────────────────────────────────────────╯
+```
+
+</div>
+
+---
+
+## `> SYSTEM_ARCHITECTURE`
+
+```text
+                         WORLDLAYER
+                             │
+                             ▼
+                  ┌─────────────────────┐
+                  │    UNITY ENGINE     │
+                  └──────────┬──────────┘
+                             │
+                ┌────────────┴────────────┐
+                ▼                         ▼
+        ┌───────────────┐         ┌───────────────┐
+        │   C# SYSTEMS  │         │    ANDROID    │
+        │               │         │   PIPELINE    │
+        └───────┬───────┘         └───────┬───────┘
+                │                         │
+                └────────────┬────────────┘
+                             ▼
+                  ┌─────────────────────┐
+                  │  WORLD INTERACTION  │
+                  └─────────────────────┘
 ```
 
 ---
@@ -118,6 +289,7 @@ class ArmaanKhan:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
+<img src="https://skillicons.dev/icons?i=cs" width="45"/>
 
 </p>
 
