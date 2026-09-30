@@ -67,8 +67,8 @@ class ArmaanKhan:
 │                                                             │
 │              ● ACTIVE DEVELOPMENT                           │
 │                                                             │
-│   Unity + Android                                            │
-│   Physical World × Digital Experiences                       │
+│   Unity + Android                                           │
+│   Physical World × Digital Experiences                      │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -82,7 +82,7 @@ class ArmaanKhan:
 ```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║                         WORLDLAYER                            ║
+║                         WORLDLAYER                           ║
 ║                                                              ║
 ║   A Unity + Android project exploring the connection         ║
 ║   between the physical world and digital experiences.        ║
