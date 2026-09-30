@@ -18,7 +18,7 @@
 │   > Loading backend modules...              [██████████] OK │
 │   > Connecting AI systems...                [██████████] OK │
 │   > Loading WorldLayer...                   [██████████] OK │
-│   > Ready.                                                   │
+│   > Ready.                                                  │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
